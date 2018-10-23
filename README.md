@@ -12,6 +12,9 @@ This is especially for learners and newbies. :)
 2. CSS ```@keyframes``` rule
 3. CSS ```border``` property
 
+# LIVE
+https://nitinnair89.github.io/Basic-Loading-Animation/index.html
+
 Check out the links below for reference:
 * https://github.com/tuvtran/project-based-learning#html-and-css
 * https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849
